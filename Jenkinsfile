@@ -18,6 +18,5 @@ pipeline {
     always {
       echo "sending mail"
     }
-
   }
 }
