@@ -36,7 +36,7 @@
 //
 @Library('roboshop') _
 
-test.new1
+test.new1()
 
 //
 // pipeline {
