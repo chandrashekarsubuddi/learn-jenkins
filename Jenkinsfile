@@ -49,6 +49,7 @@ pipeline {
        print "xyz = ${xyz}"
 
        print abc
+       env.abc = "Hello"
 
    }
 
