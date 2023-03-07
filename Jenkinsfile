@@ -57,6 +57,14 @@ pipeline {
         print "abc = ${abc}"
           }
    }
+
+   stage(test2) {
+   steps {
+   script {
+   print "abc = ${abc}"
+   }
+   }
+   }
    }
    }
 }
