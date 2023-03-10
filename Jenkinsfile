@@ -36,6 +36,8 @@
 //
 @Library('roboshop') _
 
+env.abc = "Some Data"
+
 test.new1()
 
 //
