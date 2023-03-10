@@ -37,6 +37,7 @@
 @Library('roboshop') _
 
 env.abc = "Some Data"
+env.app_lang = "nodejs"
 
 test.new1()
 
